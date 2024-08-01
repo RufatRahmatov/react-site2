@@ -1,0 +1,26 @@
+{
+    "start": [
+        {
+            "id": 1,
+            "title": "Frontend Developer",
+            "companyName": "Company A",
+            "location": "New York",
+            "experience": "3 years",
+            "position": "Senior",
+            "type": "Full-time",
+            "postedDate": "2024-07-01",
+            "status": "Active"
+        },
+        {
+            "id": 2,
+            "title": "Backend Developer",
+            "companyName": "Company B",
+            "location": "San Francisco",
+            "experience": "2 years",
+            "position": "Junior",
+            "type": "Part-time",
+            "postedDate": "2024-07-02",
+            "status": "Active"
+        }
+    ]
+}
