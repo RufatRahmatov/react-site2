@@ -5,8 +5,13 @@ const JobCard = ({ job }) => {
   return (
     <div className={styles.card}>
       <div className={styles.header}>
-        <img src={job.companyLogo} alt={job.title} className={styles.logo} />
+        <img
+          src="https://skote-v-dark.react.themesbrand.com/static/media/adobe.18e56447696e4920ce55f2008547dba4.svg"
+          alt={job.title}
+          className={styles.logo}
+        />
       </div>
+
       <div className={styles.body}>
         <h3>{job.title}</h3>
         <p>{job.companyName}</p>
